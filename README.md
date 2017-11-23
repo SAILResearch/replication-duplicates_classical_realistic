@@ -23,6 +23,6 @@ ISSN={0098-5589},
 
 ## Data and Scripts
 
-The replication package containing all data and source code used in our experiments can be downloaded [here](https://github.com/SAILResearch/replication-duplicates_classical_realistic/releases/latest)
+- The replication package containing all data and source code used in our experiments can be downloaded [here](https://github.com/SAILResearch/replication-duplicates_classical_realistic/releases/latest)
 
-The REP and BM25F implementation that we used comes from https://chengniansun.bitbucket.io/projects/bug-report/fast-dbrd.tgz.
+- The REP and BM25F implementation that we used comes from https://chengniansun.bitbucket.io/projects/bug-report/fast-dbrd.tgz.
